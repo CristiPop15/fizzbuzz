@@ -1,12 +1,13 @@
 package com.fizzbuzz.test;
 
+import com.fizzbuzz.metric.MetricsMonitoring;
 import com.fizzbuzz.parser.FizzBuzzParser;
 import org.junit.Assert;
 import org.junit.Test;
 
 public class FizzBuzzParserTest {
 
-  private FizzBuzzParser sut = new FizzBuzzParser();
+  private FizzBuzzParser sut = new FizzBuzzParser(new MetricsMonitoring());
 
   @Test
   public void fizzBuzzParseTest() {
