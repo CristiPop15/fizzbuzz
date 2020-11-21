@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dad1a1ce-b8e7-496a-bd49-d0827e29d9c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="159" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kbYvd3a7Yn0KmD0OPM1L8QET4f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fizzbuzz" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fizzbuzz.Main" />
+      <module name="fizzbuzz" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3 4 5 6 7 8 9 15 16 30 25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fizzbuzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzAppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzbuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fizzbuzz.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fizzbuzz.test" />
+      <option name="MAIN_CLASS_NAME" value="com.fizzbuzz.test.FizzBuzzAppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzAppTest.convertTest_StringParseError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzbuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fizzbuzz.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fizzbuzz.test" />
+      <option name="MAIN_CLASS_NAME" value="com.fizzbuzz.test.FizzBuzzAppTest" />
+      <option name="METHOD_NAME" value="convertTest_StringParseError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzAppTest.convertTest_pass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzbuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fizzbuzz.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fizzbuzz.test" />
+      <option name="MAIN_CLASS_NAME" value="com.fizzbuzz.test.FizzBuzzAppTest" />
+      <option name="METHOD_NAME" value="convertTest_pass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.fizzbuzz.test in fizzbuzz" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fizzbuzz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fizzbuzz.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fizzbuzz.test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.FizzBuzzAppTest.convertTest_StringParseError" />
+      <item itemvalue="JUnit.FizzBuzzAppTest" />
+      <item itemvalue="JUnit.com.fizzbuzz.test in fizzbuzz" />
+      <item itemvalue="JUnit.FizzBuzzAppTest.convertTest_pass" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.FizzBuzzAppTest.convertTest_pass" />
+        <item itemvalue="JUnit.com.fizzbuzz.test in fizzbuzz" />
+        <item itemvalue="JUnit.FizzBuzzAppTest" />
+        <item itemvalue="JUnit.FizzBuzzAppTest.convertTest_StringParseError" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dad1a1ce-b8e7-496a-bd49-d0827e29d9c6" name="Default Changelist" comment="" />
+      <created>1605970990083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605970990083</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605973443467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1605973443467" />
+    <state x="396" y="44" key="#xdebugger.evaluate" timestamp="1605972100531">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="44" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1605972100531" />
+    <state width="1237" height="170" key="GridCell.Tab.0.bottom" timestamp="1605973551956">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605973551956" />
+    <state width="1237" height="170" key="GridCell.Tab.0.center" timestamp="1605973551955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605973551955" />
+    <state width="1237" height="170" key="GridCell.Tab.0.left" timestamp="1605973551955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605973551955" />
+    <state width="1237" height="170" key="GridCell.Tab.0.right" timestamp="1605973551955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="170" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605973551955" />
+    <state width="1237" height="212" key="GridCell.Tab.1.bottom" timestamp="1605972128991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605972128991" />
+    <state width="1237" height="212" key="GridCell.Tab.1.center" timestamp="1605972128991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1605972128991" />
+    <state width="1237" height="212" key="GridCell.Tab.1.left" timestamp="1605972128990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1605972128990" />
+    <state width="1237" height="212" key="GridCell.Tab.1.right" timestamp="1605972128991">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="212" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1605972128991" />
+    <state x="376" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605971041446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1605971041446" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fizzbuzz$FizzBuzzParserTest.ic" NAME="FizzBuzzParserTest Coverage Results" MODIFIED="1605972021601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.fizzbuzz.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/fizzbuzz$FizzBuzzAppTest.ic" NAME="FizzBuzzAppTest Coverage Results" MODIFIED="1605973118714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.fizzbuzz.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/fizzbuzz$com_fizzbuzz_test_in_fizzbuzz.ic" NAME="com.fizzbuzz.test in fizzbuzz Coverage Results" MODIFIED="1605973237031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.fizzbuzz.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
