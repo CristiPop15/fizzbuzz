@@ -10,12 +10,12 @@ public class FizzBuzzAppTest {
 
   @Test
   public void convertTest_pass() {
-    Assert.assertEquals("1 2 fizz 4 buzz",
+    Assert.assertEquals("1 2 alfresco 4 buzz",
         sut.convert(new String[]{"1", "2", "3", "4", "5"}));
-    Assert.assertEquals("1 2 fizz 4 buzz 7 fizzbuzz",
+    Assert.assertEquals("1 2 alfresco 4 buzz 7 fizzbuzz",
         sut.convert(new String[]{"1", "2", "3", "4", "5", "7", "15"}));
-    Assert.assertEquals("fizz buzz fizzbuzz fizzbuzz buzz fizzbuzz fizz",
-        sut.convert(new String[]{"3", "5", "15", "30", "25", "90", "66"}));
+    Assert.assertEquals("alfresco buzz fizzbuzz alfresco buzz fizzbuzz fizz alfresco",
+        sut.convert(new String[]{"3", "5", "15", "30", "25", "90", "66", "13"}));
   }
 
   @Test()
