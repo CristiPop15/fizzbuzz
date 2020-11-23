@@ -1,5 +1,10 @@
 package com.fizzbuzz.metric;
 
+import org.springframework.context.annotation.Scope;
+import org.springframework.stereotype.Service;
+
+@Service
+@Scope("prototype")
 public class MetricsMonitoring {
 
   private int alfresco, fizzbuzz, fizz, buzz, number;

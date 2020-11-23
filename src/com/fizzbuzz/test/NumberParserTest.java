@@ -3,10 +3,17 @@ package com.fizzbuzz.test;
 import com.fizzbuzz.parser.NumberParser;
 import org.junit.Assert;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
 
+@RunWith(SpringRunner.class)
+@SpringBootTest
 public class NumberParserTest {
 
-  private NumberParser sut = new NumberParser();
+  @Autowired
+  private NumberParser sut;
 
   @Test
   public void containsDigitTest() {

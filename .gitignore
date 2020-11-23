@@ -1,1 +1,3 @@
 out/production/fizzbuzz/META-INF/fizzbuzz.kotlin_module
+.gradle/
+build/tmp/compileJava/source-classes-mapping.txt

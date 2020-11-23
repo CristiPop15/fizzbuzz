@@ -1,5 +1,8 @@
 package com.fizzbuzz.parser;
 
+import org.springframework.stereotype.Service;
+
+@Service
 public class NumberParser {
 
   public boolean containsDigit(int number, int digitToCheck) {
