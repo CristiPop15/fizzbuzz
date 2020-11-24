@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dad1a1ce-b8e7-496a-bd49-d0827e29d9c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fizzbuzz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fizzbuzz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fizzbuzz/FizzBuzzApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fizzbuzz/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fizzbuzz/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fizzbuzz/metric/MetricsMonitoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fizzbuzz/metric/MetricsMonitoring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fizzbuzz/parser/FizzBuzzParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fizzbuzz/parser/FizzBuzzParserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fizzbuzz/parser/NumberParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fizzbuzz/parser/NumberParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fizzbuzz/test/FizzBuzzAppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fizzbuzz/test/FizzBuzzParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fizzbuzz/test/FizzBuzzParserServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fizzbuzz/test/MetricsMonitoringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fizzbuzz/test/MetricsMonitoringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fizzbuzz/test/NumberParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fizzbuzz/test/NumberParserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +54,10 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -221,22 +210,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="434" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1606080724723" />
-    <state width="1237" height="274" key="GridCell.Tab.0.bottom" timestamp="1606163545027">
+    <state width="1237" height="129" key="GridCell.Tab.0.bottom" timestamp="1606164638472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606163545027" />
-    <state width="1237" height="274" key="GridCell.Tab.0.center" timestamp="1606163545027">
+    <state width="1237" height="129" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606164638472" />
+    <state width="1237" height="129" key="GridCell.Tab.0.center" timestamp="1606164638472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="274" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606163545027" />
-    <state width="1237" height="274" key="GridCell.Tab.0.left" timestamp="1606163545027">
+    <state width="1237" height="129" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606164638472" />
+    <state width="1237" height="129" key="GridCell.Tab.0.left" timestamp="1606164638472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="274" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606163545027" />
-    <state width="1237" height="274" key="GridCell.Tab.0.right" timestamp="1606163545027">
+    <state width="1237" height="129" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606164638472" />
+    <state width="1237" height="129" key="GridCell.Tab.0.right" timestamp="1606164638472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="274" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606163545027" />
+    <state width="1237" height="129" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606164638472" />
     <state width="1237" height="322" key="GridCell.Tab.1.bottom" timestamp="1606080798256">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -253,14 +242,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="322" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1606080798256" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1606078519536">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1606169038460">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606078519536" />
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1606120757467">
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606169038460" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1606205143580">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1606120757467" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1606205143580" />
     <state x="376" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605971041446">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
